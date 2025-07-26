@@ -1,2 +1,2 @@
 # littlewing
-A qmk/vial keyboard with 
+A qmk/vial keyboard, split qaz 
