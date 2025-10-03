@@ -1,2 +1,2 @@
-# littlewing
-A qmk/vial keyboard, split qaz. Designed by LAZYDESIGNERS.
+# Little Wing
+A qmk/vial keyboard, alice like qaz. Designed by LAZYDESIGNERS.
